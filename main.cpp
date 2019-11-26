@@ -1,5 +1,8 @@
 /*
-Write a recursive function factorialR that will generate factorials based upon the user starting point (validated) input from the keyboard. i.e. When the user enters, 4, the function should multiply 4 x 3 x 2 x 1, and output the result of 24. 
+Write a recursive function factorialR that will generate factorials based upon the user starting point (validated) input from the keyboard. i.e. When the user enters, 4, the function should multiply 4 x 3 x 2 x 1, and output the result of 24.
+
+Credits:
+https://www.geeksforgeeks.org/recursion/
 */
 #include<iostream>
 #include "Input_Validation_Extended.h"
